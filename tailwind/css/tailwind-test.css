@@ -1,0 +1,25 @@
+header {
+    background-color: #610027;
+    height: 70px;
+}
+
+header .logo {
+    background-color: antiquewhite;
+}
+
+header nav ul li {
+    color: white;
+}
+
+header nav ul li:hover {
+    color: black;
+    font-weight: bold;
+}
+
+section.main-content .aside-bar {
+    background-color: aqua;
+}
+
+section.main-content main {
+    background-color: darkcyan;
+}
